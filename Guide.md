@@ -20817,75 +20817,19 @@ are available at zero to mastery.io. But otherwise, happy machine learning. And 
 
 
 <!-- filepath: course-link.md -->
+# Course Link Access
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Course Link</title>
-    <style>
-        :root {
-            --primary-color: #4CAF50;
-            --hover-color: #45a049;
-            --text-color: #ffffff;
-        }
+📚 Access the complete Data Science and Machine Learning Bootcamp materials:
 
-        .course-container {
-            margin: 2rem auto;
-            max-width: 800px;
-            padding: 1.5rem;
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-        }
+[📚 **Source Course**](https://elhacker.info/Cursos/Complete%202020%20Data%20Science%20and%20Machine%20Learning%20Bootcamp%20%5bUdemyLibrary.com%5d/)
 
-        .course-link {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.75rem 1.5rem;
-            background-color: var(--primary-color);
-            color: var(--text-color);
-            text-decoration: none;
-            border-radius: 8px;
-            font-weight: 600;
-            font-size: 1rem;
-            transition: all 0.3s ease;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
+---
 
-        .course-link:hover {
-            background-color: var(--hover-color);
-            transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-        }
+**Note:** This link provides access to the full bootcamp materials. The course container includes:
+- Modern hover effects
+- Responsive design
+- SVG icon integration
+- Material-style shadows
+- Smooth animations
 
-        .course-link:active {
-            transform: translateY(0);
-        }
-
-        .source-text {
-            font-size: 1.125rem;
-            margin-bottom: 1rem;
-            color: #333;
-            line-height: 1.5;
-        }
-
-        .course-icon {
-            width: 20px;
-            height: 20px;
-            fill: currentColor;
-        }
-    </style>
-</head>
-<body>
-    <div class="course-container">
-        <p class="source-text">Access the complete Data Science and Machine Learning Bootcamp materials:</p>
-        <a href="https://elhacker.info/Cursos/Complete%202020%20Data%20Science%20and%20Machine%20Learning%20Bootcamp%20%5bUdemyLibrary.com%5d/" class="course-link">
-            <svg class="course-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-            </svg>
-            Source Course
-        </a>
-    </div>
-</body>
-</html>
+*Styled with CSS variables for easy theme customization*
