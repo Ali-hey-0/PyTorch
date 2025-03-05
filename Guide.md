@@ -20813,3 +20813,48 @@ are available at zero to mastery.io. But otherwise, happy machine learning. And 
 </details>
 
 ---
+
+
+
+<!-- filepath: course-link.md -->
+
+<style>
+.course-container {
+    margin: 20px 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+.course-link {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.course-link:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.course-link:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.source-text {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: #333;
+}
+</style>
+
+<div class="course-container">
+    <p class="source-text">Access the course materials here:</p>
+    <a href="https://elhacker.info/Cursos/Complete%202020%20Data%20Science%20and%20Machine%20Learning%20Bootcamp%20%5bUdemyLibrary.com%5d/" class="course-link">Source Course</a>
+</div>
